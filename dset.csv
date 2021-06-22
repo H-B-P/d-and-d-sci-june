@@ -1,0 +1,283 @@
+Heteropneum Designation,Heteropneum Amplitude,Floorday,Pilot,Pilot Strength (alpha),Pilot Strength (beta),Pilot Strength (gamma),Pilot Strength (delta),Pilot Strength (epsilon),Pilot Strength (zeta),Pilot Strength (eta)
+Jake,1.14 kCept,2,Janelle K.,1.72 kCept,2.76 kCept,1.89 kCept,1.1 kCept,0.14 kCept,0.0 kCept,0.42 kCept
+Serena,1.7 kCept,3,Maria N.,3.73 kCept,3.12 kCept,2.91 kCept,5.47 kCept,0.56 kCept,2.16 kCept,0.94 kCept
+Madeline,1.28 kCept,4,Janelle K.,1.76 kCept,2.96 kCept,3.15 kCept,1.28 kCept,0.2 kCept,0.93 kCept,0.42 kCept
+Herbert,3.1 kCept,5,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Fatima,2.3 kCept,7,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Will,2.56 kCept,14,Maria N.,3.76 kCept,2.61 kCept,0.66 kCept,5.83 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Liam,1.4 kCept,15,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Li,2.56 kCept,17,Maria N.,3.7 kCept,2.61 kCept,0.66 kCept,5.13 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Olga,1.42 kCept,22,Janelle K.,1.76 kCept,3.27 kCept,3.4 kCept,1.14 kCept,0.27 kCept,0.93 kCept,0.42 kCept
+Amy,1.85 kCept,23,Maria N.,3.59 kCept,3.02 kCept,0.66 kCept,5.17 kCept,0.68 kCept,2.16 kCept,0.94 kCept
+Mabel,2.1 kCept,29,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Joseph,0.99 kCept,32,Janelle K.,1.79 kCept,3.57 kCept,0.89 kCept,1.37 kCept,0.1 kCept,0.0 kCept,0.42 kCept
+Josephine,0.99 kCept,34,Maria N.,3.76 kCept,2.92 kCept,0.66 kCept,5.42 kCept,0.13 kCept,2.16 kCept,0.94 kCept
+Hugh,0.71 kCept,35,Corazon V.,2.17 kCept,0.29 kCept,0.66 kCept,0.87 kCept,0.03 kCept,1.98 kCept,0.11 kCept
+Grant,2.27 kCept,39,Maria N.,3.67 kCept,2.92 kCept,2.16 kCept,6.01 kCept,1.07 kCept,2.16 kCept,0.94 kCept
+Azad,0.9 kCept,41,Will C.,Unknown,1.4 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Anne,1.99 kCept,42,Maria N.,3.7 kCept,2.71 kCept,1.97 kCept,5.56 kCept,0.81 kCept,0.0 kCept,0.94 kCept
+Quentin,5.7 kCept,48,Maria N.,Unknown,Unknown,Unknown,6.8 kCept,Unknown,Unknown,Unknown
+Gustavo,2.0 kCept,49,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Claire,1.8 kCept,52,Janelle K.,Unknown,3.1 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Jeeves,3.1 kCept,60,Maria N.,Unknown,Unknown,Unknown,5.7 kCept,Unknown,Unknown,Unknown
+Abbott,2.56 kCept,66,Maria N.,3.64 kCept,2.81 kCept,5.72 kCept,6.01 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Costello,2.98 kCept,67,Maria N.,3.59 kCept,2.81 kCept,2.63 kCept,6.15 kCept,1.68 kCept,2.16 kCept,0.94 kCept
+Rufus,1.28 kCept,70,Maria N.,3.79 kCept,2.81 kCept,0.66 kCept,5.51 kCept,0.26 kCept,2.16 kCept,0.94 kCept
+Maya,2.7 kCept,71,Maria N.,3.67 kCept,2.81 kCept,2.44 kCept,5.53 kCept,1.46 kCept,2.16 kCept,0.94 kCept
+Lydia,2.0 kCept,76,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Morgan,2.56 kCept,79,Maria N.,3.79 kCept,2.71 kCept,2.35 kCept,6.1 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Charlotte,1.7 kCept,81,Maria N.,3.64 kCept,2.92 kCept,0.66 kCept,5.39 kCept,0.56 kCept,0.0 kCept,0.94 kCept
+Miguel,1.6 kCept,87,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Sara,0.99 kCept,88,Janelle K.,1.76 kCept,2.86 kCept,0.89 kCept,1.41 kCept,0.1 kCept,0.0 kCept,0.42 kCept
+Persephone,4.3 kCept,90,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Penelope,4.4 kCept,94,Maria N.,Unknown,Unknown,Unknown,7.1 kCept,Unknown,Unknown,Unknown
+Harmony,1.6 kCept,104,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Nicholas,2.44 kCept,107,Maria N.,3.67 kCept,3.12 kCept,2.27 kCept,6.33 kCept,1.23 kCept,7.53 kCept,0.94 kCept
+Ashley,1.7 kCept,108,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Matthew,0.57 kCept,110,Will C.,0.85 kCept,1.6 kCept,0.09 kCept,1.02 kCept,0.21 kCept,0.0 kCept,0.9 kCept
+Mark,1.6 kCept,111,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Luke,0.85 kCept,112,Amir B.,1.95 kCept,1.95 kCept,1.46 kCept,1.77 kCept,0.07 kCept,0.88 kCept,0.22 kCept
+John,1.28 kCept,113,Janelle K.,1.76 kCept,2.76 kCept,3.15 kCept,1.28 kCept,0.2 kCept,0.93 kCept,0.42 kCept
+Adam,2.7 kCept,116,Maria N.,3.67 kCept,2.61 kCept,2.44 kCept,5.7 kCept,1.46 kCept,2.16 kCept,0.94 kCept
+Quinn,0.85 kCept,118,Maria N.,3.62 kCept,3.02 kCept,1.22 kCept,5.03 kCept,0.09 kCept,0.0 kCept,0.94 kCept
+Roger,2.0 kCept,121,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Ivan,2.1 kCept,126,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Christopher,2.13 kCept,130,Maria N.,3.67 kCept,2.92 kCept,2.07 kCept,5.88 kCept,0.94 kCept,0.0 kCept,0.94 kCept
+Christine,1.6 kCept,131,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Selma,2.27 kCept,135,Maria N.,3.73 kCept,2.61 kCept,0.66 kCept,6.27 kCept,1.07 kCept,2.16 kCept,0.94 kCept
+Quigley,4.0 kCept,139,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Thomas,3.4 kCept,141,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Richard,2.3 kCept,142,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Harold,1.6 kCept,143,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Rashid,3.1 kCept,146,Maria N.,Unknown,Unknown,Unknown,5.8 kCept,Unknown,Unknown,Unknown
+Cho,2.56 kCept,147,Maria N.,3.62 kCept,3.44 kCept,0.66 kCept,5.66 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Ronald,1.42 kCept,149,Maria N.,3.76 kCept,2.61 kCept,1.6 kCept,6.18 kCept,0.34 kCept,2.16 kCept,0.94 kCept
+Minerva,3.4 kCept,150,Maria N.,Unknown,Unknown,Unknown,6.4 kCept,Unknown,Unknown,Unknown
+Neville,3.3 kCept,151,Maria N.,Unknown,Unknown,Unknown,5.8 kCept,Unknown,Unknown,Unknown
+Laplace,1.14 kCept,155,Janelle K.,1.9 kCept,2.66 kCept,0.89 kCept,1.14 kCept,0.14 kCept,0.93 kCept,0.42 kCept
+Lamarck,0.99 kCept,161,Janelle K.,1.78 kCept,3.06 kCept,0.89 kCept,1.03 kCept,0.1 kCept,0.93 kCept,0.42 kCept
+Forrest,4.0 kCept,164,Maria N.,Unknown,Unknown,Unknown,5.7 kCept,Unknown,Unknown,Unknown
+Kirsty,2.6 kCept,165,Maria N.,Unknown,Unknown,Unknown,5.0 kCept,Unknown,Unknown,Unknown
+Arthur,1.28 kCept,167,Janelle K.,1.83 kCept,3.16 kCept,0.89 kCept,1.32 kCept,0.2 kCept,0.93 kCept,0.42 kCept
+Octavia,0.85 kCept,172,Janelle K.,1.78 kCept,2.56 kCept,0.89 kCept,1.21 kCept,0.07 kCept,0.93 kCept,0.42 kCept
+Vincent,1.6 kCept,176,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Sophia,0.99 kCept,178,Maria N.,3.62 kCept,2.5 kCept,1.32 kCept,5.6 kCept,0.13 kCept,2.16 kCept,0.94 kCept
+Chen,1.8 kCept,180,Janelle K.,Unknown,3.2 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Brutus,1.0 kCept,184,Will C.,Unknown,1.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Donna,2.8 kCept,190,Maria N.,Unknown,Unknown,Unknown,5.1 kCept,Unknown,Unknown,Unknown
+Ankita,2.84 kCept,192,Maria N.,3.76 kCept,3.12 kCept,4.41 kCept,5.75 kCept,1.57 kCept,2.16 kCept,0.94 kCept
+Rosa,3.8 kCept,194,Maria N.,Unknown,Unknown,Unknown,5.6 kCept,Unknown,Unknown,Unknown
+Clive,4.0 kCept,200,Maria N.,Unknown,Unknown,Unknown,6.1 kCept,Unknown,Unknown,Unknown
+Klaus,3.3 kCept,201,Maria N.,Unknown,Unknown,Unknown,6.5 kCept,Unknown,Unknown,Unknown
+Eugene,1.7 kCept,202,Janelle K.,Unknown,2.4 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Boris,2.0 kCept,204,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Natasha,2.4 kCept,205,Janelle K.,Unknown,3.1 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Zoey,4.4 kCept,208,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Yolonda,1.42 kCept,209,Maria N.,3.64 kCept,2.92 kCept,1.6 kCept,5.3 kCept,0.34 kCept,0.0 kCept,0.94 kCept
+Jasper,0.3 kCept,212,Janelle K.,1.78 kCept,2.76 kCept,0.89 kCept,1.29 kCept,0.16 kCept,0.0 kCept,0.42 kCept
+Athena,1.19 kCept,213,Janelle K.,1.75 kCept,2.66 kCept,1.94 kCept,1.17 kCept,0.16 kCept,0.0 kCept,0.42 kCept
+Ross,1.8 kCept,214,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Phoebe,2.1 kCept,217,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Rachel,1.28 kCept,220,Maria N.,3.96 kCept,2.81 kCept,0.66 kCept,5.43 kCept,0.26 kCept,2.16 kCept,0.94 kCept
+Charles,4.3 kCept,222,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Bertram,2.56 kCept,224,Maria N.,3.62 kCept,2.71 kCept,2.35 kCept,5.31 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Kim,3.6 kCept,228,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Argand,1.4 kCept,230,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Dolores,2.27 kCept,232,Maria N.,3.67 kCept,2.61 kCept,0.66 kCept,5.04 kCept,1.07 kCept,2.16 kCept,0.94 kCept
+Gutenberg,1.7 kCept,233,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Rousseau,2.27 kCept,235,Maria N.,3.67 kCept,2.71 kCept,2.16 kCept,6.19 kCept,1.07 kCept,2.16 kCept,0.94 kCept
+Cupcake,1.6 kCept,236,Janelle K.,Unknown,3.0 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Mandible,0.99 kCept,242,Corazon V.,2.3 kCept,0.3 kCept,1.15 kCept,0.84 kCept,0.04 kCept,1.98 kCept,0.11 kCept
+Heliotrope,0.99 kCept,243,Janelle K.,1.74 kCept,2.86 kCept,2.65 kCept,1.26 kCept,0.1 kCept,0.93 kCept,0.42 kCept
+Budweiser,0.85 kCept,247,Janelle K.,1.89 kCept,2.86 kCept,3.15 kCept,1.25 kCept,0.07 kCept,0.93 kCept,0.42 kCept
+Serpent,2.56 kCept,248,Maria N.,3.73 kCept,3.12 kCept,4.04 kCept,5.75 kCept,1.34 kCept,2.16 kCept,0.94 kCept
+Paperclip,2.84 kCept,251,Maria N.,3.67 kCept,3.02 kCept,6.29 kCept,6.01 kCept,1.57 kCept,2.16 kCept,0.94 kCept
+Coronation,0.85 kCept,253,Janelle K.,1.82 kCept,2.66 kCept,2.39 kCept,1.38 kCept,0.07 kCept,0.93 kCept,0.42 kCept
+Xylophone,1.4 kCept,254,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Mezzanine,3.6 kCept,258,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Echelon,1.1 kCept,263,Flint S.,1.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Dispensary,2.7 kCept,265,Maria N.,Unknown,Unknown,Unknown,5.1 kCept,Unknown,Unknown,Unknown
+Repository,3.1 kCept,266,Maria N.,Unknown,Unknown,Unknown,5.8 kCept,Unknown,Unknown,Unknown
+Mustache,1.6 kCept,272,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Mountaintop,2.8 kCept,276,Maria N.,Unknown,Unknown,Unknown,5.3 kCept,Unknown,Unknown,Unknown
+Isotope,1.0 kCept,279,Flint S.,1.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Scrabble,0.99 kCept,280,Corazon V.,2.2 kCept,0.32 kCept,0.76 kCept,0.78 kCept,0.04 kCept,0.0 kCept,0.17 kCept
+Kitten,1.99 kCept,285,Maria N.,3.7 kCept,2.71 kCept,0.66 kCept,5.48 kCept,0.81 kCept,2.16 kCept,1.42 kCept
+Zymurgy,2.84 kCept,287,Maria N.,3.93 kCept,2.81 kCept,2.54 kCept,6.01 kCept,1.57 kCept,2.16 kCept,1.42 kCept
+Quetzal,2.56 kCept,296,Maria N.,3.73 kCept,2.81 kCept,2.35 kCept,5.83 kCept,1.34 kCept,2.16 kCept,1.42 kCept
+Cabbage,2.27 kCept,297,Maria N.,3.87 kCept,2.71 kCept,0.66 kCept,5.74 kCept,1.07 kCept,0.0 kCept,1.42 kCept
+Ambrosia,3.3 kCept,299,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Instigator,3.3 kCept,303,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Thermocline,3.6 kCept,308,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Metronome,1.1 kCept,312,Amir B.,1.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Bezoar,1.7 kCept,316,Maria N.,3.76 kCept,2.4 kCept,0.66 kCept,5.92 kCept,0.56 kCept,2.16 kCept,2.13 kCept
+Grommet,2.56 kCept,318,Maria N.,3.7 kCept,2.92 kCept,4.04 kCept,6.01 kCept,1.34 kCept,2.16 kCept,2.13 kCept
+Biblioklept,3.3 kCept,321,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Octothrope,2.7 kCept,323,Maria N.,3.73 kCept,3.23 kCept,2.44 kCept,6.32 kCept,1.46 kCept,2.16 kCept,2.13 kCept
+Endeavour,0.21 kCept,324,Flint S.,1.55 kCept,0.9 kCept,0.29 kCept,1.49 kCept,0.33 kCept,0.0 kCept,2.3 kCept
+Tenacity,2.13 kCept,328,Maria N.,3.84 kCept,2.5 kCept,6.29 kCept,5.35 kCept,0.94 kCept,2.16 kCept,2.13 kCept
+Absolution,1.85 kCept,330,Maria N.,3.73 kCept,2.61 kCept,0.66 kCept,5.52 kCept,0.68 kCept,2.16 kCept,2.13 kCept
+Obelus,2.7 kCept,331,Maria N.,3.67 kCept,2.81 kCept,4.22 kCept,5.62 kCept,1.46 kCept,2.16 kCept,2.13 kCept
+Censor,0.85 kCept,335,Janelle K.,1.84 kCept,2.76 kCept,2.39 kCept,1.02 kCept,0.07 kCept,0.0 kCept,0.96 kCept
+Islet,1.4 kCept,347,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Joust,2.3 kCept,350,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Mimic,0.85 kCept,354,Janelle K.,1.79 kCept,2.76 kCept,0.89 kCept,1.12 kCept,0.07 kCept,0.93 kCept,0.96 kCept
+Wakening,3.6 kCept,362,Maria N.,Unknown,Unknown,Unknown,6.0 kCept,Unknown,Unknown,Unknown
+Amphibian,1.28 kCept,367,Maria N.,3.76 kCept,2.61 kCept,0.66 kCept,5.16 kCept,0.26 kCept,2.16 kCept,2.13 kCept
+Formation,2.13 kCept,368,Maria N.,3.73 kCept,2.5 kCept,0.66 kCept,6.23 kCept,0.94 kCept,2.16 kCept,2.13 kCept
+Avocado,1.85 kCept,374,Maria N.,3.7 kCept,2.81 kCept,1.88 kCept,5.52 kCept,0.68 kCept,0.0 kCept,2.13 kCept
+Delivery,1.56 kCept,377,Maria N.,3.64 kCept,2.92 kCept,2.72 kCept,5.87 kCept,0.45 kCept,2.16 kCept,2.13 kCept
+Spindle,4.9 kCept,380,Maria N.,Unknown,Unknown,Unknown,6.5 kCept,Unknown,Unknown,Unknown
+Paragon,2.56 kCept,381,Maria N.,4.01 kCept,3.02 kCept,2.35 kCept,6.72 kCept,1.34 kCept,2.16 kCept,2.13 kCept
+Bishop,1.6 kCept,385,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Juniper,2.7 kCept,386,Maria N.,3.64 kCept,2.61 kCept,0.66 kCept,6.06 kCept,1.46 kCept,2.16 kCept,2.13 kCept
+Bicycle,1.14 kCept,388,Janelle K.,1.75 kCept,2.96 kCept,1.89 kCept,1.14 kCept,0.14 kCept,0.93 kCept,0.96 kCept
+Divisor,3.2 kCept,389,Maria N.,Unknown,Unknown,Unknown,6.4 kCept,Unknown,Unknown,Unknown
+Patience,1.8 kCept,391,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Resolution,2.41 kCept,396,Maria N.,3.7 kCept,2.81 kCept,2.26 kCept,5.44 kCept,1.21 kCept,2.16 kCept,2.13 kCept
+Toothbrush,0.85 kCept,397,Maria N.,3.9 kCept,2.5 kCept,0.66 kCept,4.67 kCept,0.09 kCept,2.16 kCept,2.13 kCept
+Sauce,1.42 kCept,398,Maria N.,3.93 kCept,2.5 kCept,3.47 kCept,5.82 kCept,0.34 kCept,2.16 kCept,2.13 kCept
+Vuvuzela,3.7 kCept,399,Maria N.,Unknown,Unknown,Unknown,6.8 kCept,Unknown,Unknown,Unknown
+Elevenses,2.13 kCept,404,Maria N.,3.76 kCept,2.61 kCept,2.07 kCept,5.35 kCept,0.94 kCept,2.16 kCept,2.13 kCept
+Gostak,4.4 kCept,407,Maria N.,Unknown,Unknown,Unknown,5.3 kCept,Unknown,Unknown,Unknown
+Borogrove,2.84 kCept,408,Maria N.,3.59 kCept,2.81 kCept,0.66 kCept,6.37 kCept,1.57 kCept,2.16 kCept,2.13 kCept
+Frisk,2.7 kCept,411,Maria N.,3.79 kCept,2.71 kCept,0.66 kCept,5.7 kCept,1.46 kCept,2.16 kCept,2.13 kCept
+Constitution,1.28 kCept,414,Janelle K.,1.75 kCept,3.06 kCept,3.15 kCept,1.45 kCept,0.2 kCept,0.0 kCept,0.96 kCept
+Rhythm,2.0 kCept,416,Janelle K.,Unknown,3.0 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Backbeat,2.41 kCept,418,Maria N.,3.87 kCept,3.12 kCept,3.85 kCept,5.79 kCept,1.21 kCept,2.16 kCept,2.13 kCept
+Cello,3.3 kCept,422,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Ancestor,2.84 kCept,423,Maria N.,3.67 kCept,2.71 kCept,6.29 kCept,5.75 kCept,1.57 kCept,2.16 kCept,2.13 kCept
+Metallurgy,3.7 kCept,428,Maria N.,Unknown,Unknown,Unknown,6.3 kCept,Unknown,Unknown,Unknown
+Pocket,3.1 kCept,431,Maria N.,Unknown,Unknown,Unknown,5.5 kCept,Unknown,Unknown,Unknown
+Spreadable,2.0 kCept,437,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Margin,0.71 kCept,442,Janelle K.,1.76 kCept,2.56 kCept,1.52 kCept,1.11 kCept,0.07 kCept,0.0 kCept,0.96 kCept
+Detective,0.85 kCept,449,Janelle K.,1.8 kCept,2.86 kCept,1.64 kCept,1.48 kCept,0.07 kCept,0.93 kCept,0.96 kCept
+Post,1.28 kCept,450,Maria N.,3.9 kCept,3.02 kCept,2.35 kCept,5.07 kCept,0.26 kCept,2.16 kCept,2.13 kCept
+Marksman,3.8 kCept,455,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Looking-glass,1.28 kCept,459,Maria N.,3.84 kCept,2.92 kCept,0.66 kCept,5.16 kCept,0.26 kCept,2.16 kCept,2.13 kCept
+Re-run,1.28 kCept,462,Maria N.,3.84 kCept,2.92 kCept,3.19 kCept,4.54 kCept,0.26 kCept,2.16 kCept,2.13 kCept
+Desk,1.8 kCept,463,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Pencil,1.4 kCept,464,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Envelope,1.4 kCept,465,Janelle K.,1.83 kCept,2.96 kCept,2.13 kCept,1.25 kCept,0.26 kCept,0.0 kCept,0.96 kCept
+Screen,1.85 kCept,469,Maria N.,3.73 kCept,2.92 kCept,1.88 kCept,5.61 kCept,0.68 kCept,2.16 kCept,2.13 kCept
+Culprit,3.12 kCept,471,Maria N.,3.9 kCept,2.81 kCept,4.79 kCept,6.37 kCept,1.77 kCept,2.16 kCept,2.13 kCept
+Confession,1.99 kCept,474,Maria N.,3.79 kCept,2.71 kCept,1.97 kCept,5.48 kCept,0.81 kCept,2.16 kCept,2.13 kCept
+Nadir,1.42 kCept,475,Janelle K.,1.79 kCept,2.86 kCept,4.66 kCept,1.4 kCept,0.27 kCept,0.93 kCept,0.96 kCept
+Surprise,3.0 kCept,479,Maria N.,Unknown,Unknown,Unknown,5.5 kCept,Unknown,Unknown,Unknown
+Successor,3.4 kCept,480,Maria N.,Unknown,Unknown,Unknown,5.7 kCept,Unknown,Unknown,Unknown
+Accountant,1.28 kCept,484,Maria N.,3.73 kCept,2.61 kCept,2.35 kCept,5.69 kCept,0.26 kCept,2.16 kCept,2.13 kCept
+Canopy,1.85 kCept,489,Maria N.,3.79 kCept,2.92 kCept,0.66 kCept,5.61 kCept,0.68 kCept,0.0 kCept,2.13 kCept
+Jester,2.3 kCept,490,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Vizier,3.8 kCept,492,Maria N.,Unknown,Unknown,Unknown,6.4 kCept,Unknown,Unknown,Unknown
+Replacement,2.1 kCept,494,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Zebra,1.14 kCept,495,Maria N.,3.73 kCept,2.81 kCept,1.41 kCept,5.73 kCept,0.18 kCept,2.16 kCept,2.13 kCept
+Cacophany,2.4 kCept,501,Janelle K.,Unknown,3.0 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Worm,1.0 kCept,507,Flint S.,1.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Hurricane,3.0 kCept,512,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Dosh,2.84 kCept,516,Maria N.,4.21 kCept,2.61 kCept,2.54 kCept,5.84 kCept,1.57 kCept,2.16 kCept,3.02 kCept
+Reflection,2.4 kCept,520,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Duchess,5.1 kCept,521,Maria N.,Unknown,Unknown,Unknown,6.8 kCept,Unknown,Unknown,Unknown
+Plumage,0.85 kCept,523,Amir B.,2.12 kCept,1.95 kCept,0.51 kCept,2.01 kCept,0.07 kCept,0.88 kCept,0.69 kCept
+Drummer,2.1 kCept,524,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Cormorant,0.9 kCept,526,Will C.,Unknown,1.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Economy,4.5 kCept,529,Maria N.,Unknown,Unknown,Unknown,7.4 kCept,Unknown,Unknown,Unknown
+Proton,1.7 kCept,535,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Container,2.0 kCept,540,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Tuba,0.85 kCept,541,Janelle K.,2.02 kCept,2.66 kCept,0.89 kCept,1.38 kCept,0.07 kCept,0.93 kCept,1.36 kCept
+Gentleman,0.57 kCept,542,Janelle K.,2.14 kCept,3.06 kCept,1.89 kCept,1.33 kCept,0.08 kCept,0.93 kCept,1.36 kCept
+Aristocrat,4.7 kCept,544,Maria N.,Unknown,Unknown,Unknown,6.8 kCept,Unknown,Unknown,Unknown
+Beverage,1.28 kCept,548,Maria N.,4.21 kCept,3.23 kCept,1.51 kCept,5.16 kCept,0.26 kCept,2.16 kCept,3.02 kCept
+Sidequest,1.85 kCept,552,Maria N.,4.21 kCept,2.71 kCept,0.66 kCept,5.34 kCept,0.68 kCept,2.16 kCept,3.02 kCept
+Abundance,0.43 kCept,557,Janelle K.,2.09 kCept,2.56 kCept,1.26 kCept,1.28 kCept,0.11 kCept,0.93 kCept,1.36 kCept
+Vocateur,1.7 kCept,559,Maria N.,4.3 kCept,3.12 kCept,0.66 kCept,5.74 kCept,0.56 kCept,2.16 kCept,3.02 kCept
+Opportunist,2.27 kCept,564,Maria N.,4.24 kCept,2.71 kCept,2.16 kCept,5.74 kCept,1.07 kCept,2.16 kCept,3.02 kCept
+Distillery,2.56 kCept,565,Maria N.,4.27 kCept,2.5 kCept,0.66 kCept,5.66 kCept,1.34 kCept,2.16 kCept,3.02 kCept
+Subtext,0.43 kCept,567,Maria N.,4.24 kCept,3.12 kCept,0.94 kCept,4.62 kCept,0.14 kCept,2.16 kCept,3.02 kCept
+Komodo,2.56 kCept,568,Maria N.,4.1 kCept,2.61 kCept,2.35 kCept,5.75 kCept,1.34 kCept,2.16 kCept,3.02 kCept
+Paperwork,1.1 kCept,569,Will C.,Unknown,1.4 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Disguise,2.1 kCept,571,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Tolerance,2.98 kCept,574,Maria N.,4.16 kCept,2.71 kCept,0.66 kCept,6.15 kCept,1.68 kCept,2.16 kCept,3.02 kCept
+Emerald,2.0 kCept,577,Janelle K.,Unknown,3.0 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Precipice,0.99 kCept,580,Amir B.,2.15 kCept,1.95 kCept,0.28 kCept,1.87 kCept,0.1 kCept,0.88 kCept,0.69 kCept
+Escalator,0.9 kCept,585,Will C.,Unknown,1.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Sapphire,2.41 kCept,587,Maria N.,4.24 kCept,2.61 kCept,2.26 kCept,5.7 kCept,1.21 kCept,2.16 kCept,3.02 kCept
+Mindset,1.28 kCept,591,Maria N.,4.24 kCept,2.5 kCept,1.51 kCept,5.87 kCept,0.26 kCept,2.16 kCept,3.02 kCept
+Ventilator,0.85 kCept,593,Amir B.,2.13 kCept,2.03 kCept,0.51 kCept,1.89 kCept,0.07 kCept,0.88 kCept,0.69 kCept
+Query,2.1 kCept,594,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Rugrat,1.3 kCept,596,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Scofflaw,1.4 kCept,598,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Prosecutor,3.3 kCept,600,Maria N.,Unknown,Unknown,Unknown,5.9 kCept,Unknown,Unknown,Unknown
+Tome,3.0 kCept,604,Maria N.,Unknown,Unknown,Unknown,5.7 kCept,Unknown,Unknown,Unknown
+Inheritance,2.8 kCept,609,Maria N.,Unknown,Unknown,Unknown,5.7 kCept,Unknown,Unknown,Unknown
+Biscuit,1.7 kCept,612,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Vitamin,4.1 kCept,613,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Swirl,1.99 kCept,619,Maria N.,4.27 kCept,3.12 kCept,4.6 kCept,5.12 kCept,0.81 kCept,2.16 kCept,3.02 kCept
+Membrane,1.14 kCept,621,Janelle K.,2.06 kCept,2.96 kCept,1.89 kCept,1.14 kCept,0.14 kCept,0.93 kCept,1.36 kCept
+Encyclopedia,2.56 kCept,622,Maria N.,4.24 kCept,2.71 kCept,2.35 kCept,5.92 kCept,1.34 kCept,2.16 kCept,3.02 kCept
+Counterpart,2.13 kCept,623,Maria N.,4.3 kCept,2.92 kCept,0.66 kCept,6.14 kCept,0.94 kCept,2.16 kCept,3.02 kCept
+Decibel,2.0 kCept,624,Janelle K.,Unknown,3.1 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Trochee,1.7 kCept,625,Maria N.,4.44 kCept,2.71 kCept,2.91 kCept,4.94 kCept,0.56 kCept,2.16 kCept,3.02 kCept
+Twine,2.56 kCept,627,Maria N.,4.41 kCept,2.92 kCept,0.66 kCept,6.54 kCept,1.34 kCept,2.16 kCept,3.02 kCept
+Zephyr,0.85 kCept,630,Janelle K.,1.99 kCept,2.66 kCept,1.64 kCept,1.4 kCept,0.07 kCept,0.0 kCept,1.36 kCept
+Sirocco,0.5 kCept,631,Janelle K.,2.06 kCept,2.35 kCept,1.78 kCept,1.18 kCept,0.09 kCept,3.24 kCept,1.36 kCept
+Farmhand,3.4 kCept,636,Maria N.,Unknown,Unknown,Unknown,6.6 kCept,Unknown,Unknown,Unknown
+Ichor,1.4 kCept,643,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Airport,0.57 kCept,644,Janelle K.,2.02 kCept,2.66 kCept,0.89 kCept,1.31 kCept,0.08 kCept,0.93 kCept,1.36 kCept
+Guttersnipe,3.12 kCept,645,Maria N.,4.38 kCept,2.61 kCept,2.72 kCept,6.46 kCept,1.77 kCept,2.16 kCept,3.02 kCept
+Mime,1.99 kCept,646,Maria N.,4.21 kCept,2.92 kCept,3.29 kCept,4.77 kCept,0.81 kCept,2.16 kCept,3.02 kCept
+Attorney,1.56 kCept,647,Maria N.,4.16 kCept,3.02 kCept,0.66 kCept,5.96 kCept,0.45 kCept,2.16 kCept,3.02 kCept
+Guitar,3.3 kCept,649,Maria N.,Unknown,Unknown,Unknown,6.1 kCept,Unknown,Unknown,Unknown
+Comedian,2.4 kCept,652,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Embankment,0.43 kCept,657,Maria N.,4.44 kCept,2.81 kCept,1.22 kCept,4.89 kCept,0.14 kCept,0.0 kCept,3.02 kCept
+Abstraction,1.99 kCept,660,Maria N.,4.16 kCept,2.92 kCept,4.6 kCept,5.65 kCept,0.81 kCept,2.16 kCept,3.02 kCept
+Squall,1.6 kCept,668,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Rabbit,1.28 kCept,672,Maria N.,4.35 kCept,2.71 kCept,1.51 kCept,5.51 kCept,0.26 kCept,2.16 kCept,3.02 kCept
+Capricorn,1.1 kCept,676,Flint S.,1.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Bodyguard,1.0 kCept,678,Flint S.,1.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+Constellation,0.79 kCept,680,Janelle K.,2.08 kCept,2.76 kCept,3.68 kCept,1.24 kCept,0.07 kCept,3.24 kCept,1.36 kCept
+Sunbeam,3.8 kCept,681,Maria N.,Unknown,Unknown,Unknown,6.2 kCept,Unknown,Unknown,Unknown
+Cloud,3.0 kCept,682,Maria N.,Unknown,Unknown,Unknown,5.6 kCept,Unknown,Unknown,Unknown
+Forest,2.4 kCept,683,Janelle K.,Unknown,2.6 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Jeweller,1.6 kCept,691,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Ellipsis,2.0 kCept,694,Janelle K.,Unknown,2.9 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Narcissist,1.42 kCept,696,Maria N.,4.27 kCept,2.92 kCept,0.66 kCept,5.3 kCept,0.34 kCept,2.16 kCept,3.02 kCept
+Echo,1.42 kCept,700,Maria N.,4.13 kCept,2.92 kCept,2.54 kCept,5.38 kCept,0.34 kCept,2.16 kCept,3.02 kCept
+Phobia,2.3 kCept,709,Janelle K.,Unknown,2.7 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Thunderbolt,5.3 kCept,717,Maria N.,Unknown,Unknown,Unknown,6.6 kCept,Unknown,Unknown,Unknown
+Deduction,3.1 kCept,724,Maria N.,Unknown,Unknown,Unknown,6.1 kCept,Unknown,Unknown,Unknown
+Particle,0.71 kCept,725,Maria N.,4.16 kCept,3.33 kCept,0.66 kCept,5.6 kCept,0.08 kCept,2.16 kCept,3.02 kCept
+Thespian,0.85 kCept,726,Amir B.,2.09 kCept,2.03 kCept,0.28 kCept,1.71 kCept,0.07 kCept,0.88 kCept,0.69 kCept
+Coagulant,3.1 kCept,728,Maria N.,Unknown,Unknown,Unknown,5.8 kCept,Unknown,Unknown,Unknown
+Eyepiece,1.8 kCept,731,Janelle K.,Unknown,2.8 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Punchline,1.14 kCept,732,Janelle K.,1.95 kCept,2.56 kCept,0.89 kCept,1.21 kCept,0.14 kCept,0.93 kCept,1.36 kCept
+Rationale,0.85 kCept,734,Maria N.,4.24 kCept,3.12 kCept,1.22 kCept,5.29 kCept,0.09 kCept,2.16 kCept,3.02 kCept
+Pedestrian,1.85 kCept,735,Maria N.,4.24 kCept,2.61 kCept,1.88 kCept,5.25 kCept,0.68 kCept,0.0 kCept,3.02 kCept
+Squire,2.41 kCept,740,Maria N.,4.18 kCept,2.71 kCept,5.44 kCept,5.97 kCept,1.21 kCept,2.16 kCept,3.02 kCept
+Salamander,2.7 kCept,746,Maria N.,4.27 kCept,2.71 kCept,2.44 kCept,5.53 kCept,1.46 kCept,2.16 kCept,3.02 kCept
+Valedictorian,0.28 kCept,749,Janelle K.,1.97 kCept,2.66 kCept,1.64 kCept,1.33 kCept,0.17 kCept,0.0 kCept,1.08 kCept
+Zigzag,1.28 kCept,754,Janelle K.,2.12 kCept,2.86 kCept,0.89 kCept,1.28 kCept,0.2 kCept,0.93 kCept,1.08 kCept
+Topaz,0.57 kCept,755,Maria N.,4.35 kCept,2.81 kCept,1.41 kCept,5.11 kCept,0.1 kCept,2.16 kCept,2.41 kCept
+Blender,0.28 kCept,760,Maria N.,4.41 kCept,2.81 kCept,0.66 kCept,5.55 kCept,0.21 kCept,0.0 kCept,2.41 kCept
+Jurist,2.98 kCept,762,Maria N.,4.16 kCept,2.71 kCept,2.63 kCept,6.24 kCept,1.68 kCept,2.16 kCept,2.41 kCept
+Polemic,3.0 kCept,763,Maria N.,Unknown,Unknown,Unknown,5.8 kCept,Unknown,Unknown,Unknown
+Invective,3.3 kCept,768,Maria N.,Unknown,Unknown,Unknown,6.4 kCept,Unknown,Unknown,Unknown
+Harlequin,1.6 kCept,771,Janelle K.,Unknown,2.5 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Harbinger,1.89 kCept,772,Maria N.,4.3 kCept,2.61 kCept,4.4 kCept,5.89 kCept,0.72 kCept,7.53 kCept,2.41 kCept
+Minimalist,0.05 kCept,773,Maria N.,4.16 kCept,3.23 kCept,0.7 kCept,4.59 kCept,0.4 kCept,7.53 kCept,2.41 kCept
+Ringmaster,3.12 kCept,774,Maria N.,4.3 kCept,2.71 kCept,6.85 kCept,6.81 kCept,1.77 kCept,2.16 kCept,2.41 kCept
+Patriarch,0.85 kCept,777,Maria N.,4.24 kCept,2.5 kCept,1.22 kCept,5.38 kCept,0.09 kCept,2.16 kCept,2.41 kCept
+Breakfast,1.7 kCept,779,Janelle K.,Unknown,2.4 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Derringer,2.98 kCept,783,Maria N.,4.18 kCept,2.92 kCept,8.54 kCept,5.97 kCept,1.68 kCept,2.16 kCept,2.41 kCept
+Rockstar,0.71 kCept,787,Maria N.,4.21 kCept,2.92 kCept,1.6 kCept,5.51 kCept,0.08 kCept,0.0 kCept,2.41 kCept
+Compost,2.41 kCept,789,Maria N.,4.21 kCept,2.81 kCept,2.26 kCept,6.14 kCept,1.21 kCept,2.16 kCept,2.41 kCept
+Atelier,2.56 kCept,790,Maria N.,4.27 kCept,2.81 kCept,0.66 kCept,5.48 kCept,1.34 kCept,2.16 kCept,2.41 kCept
+Accusation,0.57 kCept,793,Janelle K.,2.06 kCept,2.66 kCept,1.89 kCept,1.31 kCept,0.08 kCept,0.0 kCept,1.08 kCept
+Bile,3.4 kCept,794,Maria N.,Unknown,Unknown,Unknown,6.5 kCept,Unknown,Unknown,Unknown
+Susuration,2.27 kCept,796,Maria N.,4.27 kCept,2.92 kCept,2.16 kCept,5.57 kCept,1.07 kCept,2.16 kCept,2.41 kCept
+Troll,1.85 kCept,800,Maria N.,4.18 kCept,2.92 kCept,0.66 kCept,5.52 kCept,0.68 kCept,2.16 kCept,2.41 kCept
+Spackle,2.2 kCept,801,Janelle K.,Unknown,2.4 kCept,Unknown,Unknown,Unknown,Unknown,Unknown
+Tourniquet,2.9 kCept,803,Maria N.,Unknown,Unknown,Unknown,5.6 kCept,Unknown,Unknown,Unknown
+Pastry,0.71 kCept,804,Janelle K.,2.02 kCept,2.86 kCept,0.89 kCept,1.15 kCept,0.07 kCept,0.93 kCept,1.08 kCept
+Painting,5.5 kCept,813,Maria N.,Unknown,Unknown,Unknown,6.8 kCept,Unknown,Unknown,Unknown
+Toast,3.1 kCept,814,Maria N.,Unknown,Unknown,Unknown,5.4 kCept,Unknown,Unknown,Unknown
+Earwax,3.2 kCept,814,?,?,?,?,?,?,?,?
